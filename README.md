@@ -28,7 +28,7 @@
 
 # 📊 GitHub Project Video Link (Android & iOS):
 
-- 📱 CMP OTT App Demo<br/>
+- 📱 CMP OTT App Demo (Video playback works only on real iOS devices)<br/>
 👉 Download Video Link: https://github.com/user-attachments/assets/0cc2f8a3-f5f9-480d-98bc-14130f6192f1 
 <br/>👉 Play Video Link: https://drive.google.com/file/d/1H-lqGHWjrQGDpXNdcbockRoN0i3mclnF/view?usp=sharing
 
