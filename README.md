@@ -29,9 +29,11 @@
 # 📊 GitHub Project Video Link (Android & iOS):
 
 - 📱 CMP OTT App Demo<br/>
-Download Video Link: https://github.com/user-attachments/assets/0cc2f8a3-f5f9-480d-98bc-14130f6192f1 
-<br/>Play Video Link: https://drive.google.com/file/d/1H-lqGHWjrQGDpXNdcbockRoN0i3mclnF/view?usp=sharing
+👉 Download Video Link: https://github.com/user-attachments/assets/0cc2f8a3-f5f9-480d-98bc-14130f6192f1 
+<br/>👉 Play Video Link: https://drive.google.com/file/d/1H-lqGHWjrQGDpXNdcbockRoN0i3mclnF/view?usp=sharing
 
 
-
+- 📱 Jetpack Compose with MVVM Clean Architecture<br/>
+👉 GitHub Repository: https://github.com/vinayjuyal07/vinay_MVVM_Compose
+<br/>👉 Demo Video: https://github.com/user-attachments/assets/594a6696-8468-484d-8a4d-f70774d01371
 
