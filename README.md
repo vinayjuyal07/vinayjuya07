@@ -37,3 +37,7 @@
 👉 GitHub Repository: https://github.com/vinayjuyal07/vinay_MVVM_Compose
 <br/>👉 Demo Video: https://github.com/user-attachments/assets/594a6696-8468-484d-8a4d-f70774d01371
 
+- 🌗 Implemented Dark, Light & System Theme in Compose Multiplatform (Android & iOS)<br/>
+👉 GitHub Repository: https://github.com/vinayjuyal07/
+<br/>👉 Demo Video: [https://github.com/user-attachments/assets/594a6696-8468-484d-8a4d-f70774d01371](https://drive.google.com/file/d/1VOIEUiGR-MAhzRdRtVpgzR-3_H3TTFhR/view?usp=sharing)
+
